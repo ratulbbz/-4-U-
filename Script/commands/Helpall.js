@@ -37,7 +37,7 @@ ${allCommands.map(cmd => `║ ➔ ${cmd}`).join("\n")}
  // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
  
  const backgrounds = [
-    "",
+    "https://photos.app.goo.gl/ekCFB8GQKM4jT8Nm8",
     "",
     "",
     ""
