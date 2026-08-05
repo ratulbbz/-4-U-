@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Ratul",
   "version": "2.0.1",
   "language": "en",
   "DeveloperMode": false,
@@ -11,7 +11,7 @@
   "PASSWORD": "your_password",
   "OTPKEY": "",
   "BOTNAME": "─꯭─⃝‌‌Ꭱ4ͲUᏞ 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
-  "PREFIX": "/",
+  "PREFIX": "+",
 
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
